@@ -4,7 +4,7 @@
 
 ## Steps to Reproduce
 1. R version: 
-2. Dataset, NBA_teams.csv, included
-3. Libraries used: ggplot2, tidyverse, rpart, rpart.plot, randomForest
-4.Code: NBA_Project.R
+2. Dataset: NBA_teams.csv
+3. Libraries: ggplot2, tidyverse, rpart, rpart.plot, randomForest
+4. Code: NBA_Project.R
   
