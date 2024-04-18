@@ -4,7 +4,7 @@
 - Completed: Fall 2020
 
 ## Steps to Reproduce
-1. R version: 
+1. R version: 4.0.2
 2. Dataset: NBA_teams.csv  
     - Source: https://www.nba.com/stats/teams/traditional  
     - We built our dataset from taking season-long summary statistics for each team from years 2000-2020.  
