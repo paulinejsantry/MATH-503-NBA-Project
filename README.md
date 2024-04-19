@@ -14,8 +14,6 @@
 5. Code: NBA_Project.R
 
 ## Conclusions
-Combining patterns seen in Principle Component Analysis, Logistic Regression, our Tree, and Random Forest:
-
 1. Having a high scoring offense is the most important trait of successful teams
     - By increasing three-point attempts, not necessarily improving accuracy, teams make more three-pointers and score more points 
 3. Maintaining possession is also an important factor:
