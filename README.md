@@ -25,7 +25,7 @@ Combining patterns seen in Principle Component Analysis, Logistic Regression, ou
 ### I. Summary Statistics
 1. Average total points per game increases from from 2000 (~90 points/game) to 2020 (~130 points/game)  
    <img width="501" alt="Screenshot 2024-04-18 at 8 29 45 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/3f3fdb37-1aed-4673-a40e-f3430f38063d">
-3. Average three-point shots **attempted** per game doubles from 2000 (~15 attempts/game) to 2020 (~35 attempts/game)
+3. Average three-point shots **attempted** per game doubles from 2000 (~15 attempts/game) to 2020 (~35 attempts/game)  
    <img width="501" alt="Screenshot 2024-04-18 at 8 30 42 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/98e40f47-3d71-450d-a5cb-0d9c28e1878b">
 5. Average three-point shots **made** per game increases from 2000-2020  
    <img width="501" alt="Screenshot 2024-04-18 at 8 31 13 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/a8c8a06c-4106-4746-8cae-9b58d9cc3ed2">
