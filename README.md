@@ -39,8 +39,8 @@ Combining patterns seen in Principle Component Analysis, Logistic Regression, ou
        - Three pointers made (three_PM)  
        - Three pointers attempted (three_PA)  
        - Defensive rebounds (DRB)  
-       <img width="501" alt="Screenshot 2024-04-18 at 8 32 26 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/af685d72-080f-446c-b567-5d4e953f9a35"> 
-       <img width="501" alt="Screenshot 2024-04-18 at 8 26 16 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/e59f384f-e814-426d-b646-06ddabef31b0">
+ <img width="400" alt="Screenshot 2024-04-18 at 8 32 26 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/af685d72-080f-446c-b567-5d4e953f9a35">  
+ <img width="400" alt="Screenshot 2024-04-18 at 8 26 16 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/e59f384f-e814-426d-b646-06ddabef31b0">
 
 ### III. Logistic Model predicting whether a team will make the playoffs yielded 78% accuracy
   <img width="501" alt="Screenshot 2024-04-18 at 8 27 11 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/bdbdd663-5a7e-4191-9743-647ed02a6655">
@@ -49,7 +49,6 @@ Combining patterns seen in Principle Component Analysis, Logistic Regression, ou
   <img width="632" alt="image" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/7e78c167-44a1-430a-a646-331db02336d4">
 
 ### V. Random Forest Model predicting whether a team will make the playoffs yielded 81% accuracy
-  <img width="501" alt="Screenshot 2024-04-18 at 8 27 32 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/564ed035-c5c1-4509-886e-2914362497b2">  
-  <br/>
-  <img width="501" alt="Screenshot 2024-04-18 at 8 28 37 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/a221d68d-bcde-4671-8aa9-7ec5b8026cfd">  
+  <img width="400" alt="Screenshot 2024-04-18 at 8 27 32 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/564ed035-c5c1-4509-886e-2914362497b2">  
+  <img width="400" alt="Screenshot 2024-04-18 at 8 28 37 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/a221d68d-bcde-4671-8aa9-7ec5b8026cfd">  
 
