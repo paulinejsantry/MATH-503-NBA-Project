@@ -22,7 +22,7 @@ Combining patterns seen in Principle Component Analysis, Logistic Regression, ou
     - defensive rebounds and steals are important and positively impacted team’s success  
     - turnovers represent losing possession and negatively impact the team’s success
 
-### Summary Statistics
+### I. Summary Statistics
 1. Average total points per game increases from from 2000 (~90 points/game) to 2020 (~130 points/game)  
    <img width="501" alt="Screenshot 2024-04-18 at 8 29 45 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/3f3fdb37-1aed-4673-a40e-f3430f38063d">
 3. Average three-point shots **attempted** per game doubles from 2000 (~15 attempts/game) to 2020 (~35 attempts/game)
@@ -31,7 +31,7 @@ Combining patterns seen in Principle Component Analysis, Logistic Regression, ou
    <img width="501" alt="Screenshot 2024-04-18 at 8 31 13 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/a8c8a06c-4106-4746-8cae-9b58d9cc3ed2">
 6. Accuracy of three-point shots made is **constant** from 2000-2020  
    <img width="501" alt="Screenshot 2024-04-18 at 8 31 47 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/9d68de62-5f1f-47d2-95e6-283f16fcef69">
-### Principle Component Analysis
+### II. Principle Component Analysis
 1. Significant variables in predicting if a team will make the playoffs:  
        - Points  
        - Field goals made (FGM)  
@@ -42,13 +42,13 @@ Combining patterns seen in Principle Component Analysis, Logistic Regression, ou
        <img width="501" alt="Screenshot 2024-04-18 at 8 32 26 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/af685d72-080f-446c-b567-5d4e953f9a35"> 
        <img width="501" alt="Screenshot 2024-04-18 at 8 26 16 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/e59f384f-e814-426d-b646-06ddabef31b0">
 
-### Logistic Model predicting whether a team will make the playoffs yielded 78% accuracy
+### III. Logistic Model predicting whether a team will make the playoffs yielded 78% accuracy
   <img width="501" alt="Screenshot 2024-04-18 at 8 27 11 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/bdbdd663-5a7e-4191-9743-647ed02a6655">
 
-### Decision Tree for significant variables yielded 80% accuracy
+### IV. Decision Tree for significant variables yielded 80% accuracy
   <img width="632" alt="image" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/7e78c167-44a1-430a-a646-331db02336d4">
 
-### Random Forest Model predicting whether a team will make the playoffs yielded 81% accuracy
+### V. Random Forest Model predicting whether a team will make the playoffs yielded 81% accuracy
   <img width="501" alt="Screenshot 2024-04-18 at 8 27 32 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/564ed035-c5c1-4509-886e-2914362497b2">  
   <br/>
   <img width="501" alt="Screenshot 2024-04-18 at 8 28 37 PM" src="https://github.com/paulinejsantry/MATH-503-NBA-Project/assets/166664713/a221d68d-bcde-4671-8aa9-7ec5b8026cfd">  
